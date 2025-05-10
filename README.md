@@ -4,12 +4,9 @@ A machine learning-powered web application that predicts the **price range of mo
 
 ---
 ## 📸 App View
-
-<div align="center">
-  <img src="assets/screenshot1.png" width="30%" style="margin-right: 10px;" />
-  <img src="assets/screenshot2.png" width="30%" style="margin-right: 10px;" />
-  <img src="assets/screenshot3.png" width="30%" />
-</div>
+| Web View                          | Another Features                 | Plot                       |
+| --------------------------------- | -------------------------------- | --------------------------------- |
+|![image](https://github.com/user-attachments/assets/12984632-141c-40d0-98af-9b8d822dc6f4)|![image](https://github.com/user-attachments/assets/08ffc2df-6f9b-4b9b-92a0-0d59f2c06afc)|![image](https://github.com/user-attachments/assets/b6cc4cbf-b2c2-40a4-9ac8-fc10a90be859)|
 
 ---
 
